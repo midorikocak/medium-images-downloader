@@ -69,7 +69,7 @@ function download_images(){
     $mediumFiles = array_filter($files, 'filename_array_filter');
 
     foreach ($mediumFiles as $file){
-        remove_url($file);
+        get_images($file);
     }
 }
 
