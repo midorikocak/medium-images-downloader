@@ -72,4 +72,7 @@ function download_images(){
         remove_url($file);
     }
 }
+
+download_images();
+
 ?>
