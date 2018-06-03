@@ -43,7 +43,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Credits
 
-- [Midori Kocak][link-author]
+- [Midori Kocak][https://github.com/midorikocak]
 
 ## License
 
@@ -52,4 +52,3 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 ## Attention
 
 No WARRANTY. I have no responsibility if you lose your files. Please use with caution. Backup your files as instructed.
-[link-author]: https://github.com/midorikocak
