@@ -37,13 +37,9 @@ It downloads all files, so it can take some time.
 	
 * Go to ```exports``` folder.
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details.
-
 ## Credits
 
-- [Midori Kocak][https://github.com/midorikocak]
+- [Midori Kocak](https://github.com/midorikocak)
 
 ## License
 
