@@ -7,7 +7,9 @@ Easy to use tool to download images from medium export
 ## Install
 
 * First make a backup copy of your medium-export directory.
+* If you don't already have it, install Composer from [here](https://getcomposer.org/download/).
 * Copy ```composer.json``` and ```images-downloader.php``` from this repository to your medium-export/posts directory and use command
+
 
 	``` bash
 	$ composer install
